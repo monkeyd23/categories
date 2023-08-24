@@ -1,0 +1,40 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Drugs List (NL)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 26028
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Drugs list
+# ------------------------------------[FILTERS]-------------------------------------
+000host.totaocimall.com
+001kanpou.com
+028lang.com
+03pc.biz
+0755jx.cn
+07eh4q8916.forumcircle.com
+0830bbs.com
+0crenova4.soup.io
+0d6e4afhxrvbw0ad3sm3-1-jv6.hop.clickbank.net
+0dddf6t3lt112v5fjqw2v09od8.hop.clickbank.net
+0ga.com
+0rx.ru
+0uz.com
+1-718-475-9088.com
+1-800-532-4808.com
+1-800-can-drug.com
+1-apo.de
+1-best-viagra.news-website.net
+1-online-pharm.com
+1-order-viagra.news-website.net
+1-pharm.com
+1.beatreflux.pay.clickbank.net
+1.bizness.keed.pl
+1.martin7.pay.clickbank.net
+101fitnesspharma.com

@@ -1,0 +1,40 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Whatsapp List (NL)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 226
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Whatsapp list
+# ------------------------------------[FILTERS]-------------------------------------
+account.whatsapp.com
+alpha.whatsapp.com
+api.whatsapp.com
+autodiscover.whatsapp.com
+b.whatsapp.com
+beta.whatsapp.com
+betablog.whatsapp.com
+betal.whatsapp.com
+blog.whatsapp.com
+blogl.whatsapp.com
+c.whatsapp.net
+chat.whatsapp.com
+crashlogs.whatsapp.net
+dev-web-beta.whatsapp.com
+dev-web.whatsapp.com
+dyn.web.whatsapp.com
+e1.whatsapp.net
+e10.whatsapp.net
+e11.whatsapp.net
+e12.whatsapp.net
+e13.whatsapp.net
+e14.whatsapp.net
+e15.whatsapp.net
+e16.whatsapp.net
+e2.whatsapp.net

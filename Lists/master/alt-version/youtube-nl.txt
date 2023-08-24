@@ -1,0 +1,40 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Youtube List (NL)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 24280
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Youtube list - Take this list with a grain of salt. Google is always changing their ad serving domains.
+# ------------------------------------[FILTERS]-------------------------------------
+r1---sls.googlevideo.com
+r1---sn--0opoxu-2cjy.googlevideo.com
+r1---sn--0ub03g5pox-3c2l.googlevideo.com
+r1---sn--1gi7znes.googlevideo.com
+r1---sn--25g5qpnxpo-2o9e.googlevideo.com
+r1---sn--25ge7nl6.googlevideo.com
+r1---sn--25ge7nld.googlevideo.com
+r1---sn--25ge7nls.googlevideo.com
+r1---sn--25ge7nlz.googlevideo.com
+r1---sn--25ge7ns7.googlevideo.com
+r1---sn--25ge7nsd.googlevideo.com
+r1---sn--25ge7nse.googlevideo.com
+r1---sn--25ge7nsk.googlevideo.com
+r1---sn--25ge7nsl.googlevideo.com
+r1---sn--25glen7e.googlevideo.com
+r1---sn--25glen7l.googlevideo.com
+r1---sn--25glen7r.googlevideo.com
+r1---sn--25glen7y.googlevideo.com
+r1---sn--25glene6.googlevideo.com
+r1---sn--25glene7.googlevideo.com
+r1---sn--25glenes.googlevideo.com
+r1---sn--25glenez.googlevideo.com
+r1---sn--2aphcg-jo4e.googlevideo.com
+r1---sn--2gb7sn7k.googlevideo.com
+r1---sn--2gb7sn7r.googlevideo.com

@@ -1,0 +1,40 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Crypto List (NL)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 23761
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Crypto List
+# ------------------------------------[FILTERS]-------------------------------------
+0.r.msn.com
+000.0x1f4b0.com
+001.0x1f4b0.com
+002.0x1f4b0.com
+003.0x1f4b0.com
+004.0x1f4b0.com
+005.0x1f4b0.com
+006.0x1f4b0.com
+007.0x1f4b0.com
+007.suprnova.cc
+008.0x1f4b0.com
+009.0x1f4b0.com
+0127.adsame.com
+0aqpqdju.me
+0x1f4b0.com
+1.21shebao.com
+1.allyes.com.cn
+1.wps.cn
+1.yhzm.cc
+100xbtc.sytes.net
+101games.xyz
+10k.suprnova.cc
+1100.adsina.allyes.com
+1116.oadz.com
+114.allyes.com

@@ -1,0 +1,40 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Facebook List (NL)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 22459
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+#  - reporting false positives
+#  - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Facebook list
+# ------------------------------------[FILTERS]-------------------------------------
+0-1.fb.me
+0-144-243f1.fbjs.facebook.com
+0-157-99-m.lite.facebook.com
+0-edge-chat-latest.facebook.com
+0-edge-chat-latest.messenger.com
+0-edge-chat.facebook.com
+0-edge-chat.messenger.com
+0.beta.facebook.com
+0.facebook.com
+0.fb.me
+0.messenger.com
+0apps.fbsbx.com
+0bmvipuk9etado5gl3wrqhs167nxyc2fz4j8.fbsbx.com
+0ieyqj2t57f4lbrvgzxdnph3caswmu9k816o.fb.me
+1-edege-chat.messenger.com
+1-edge-chat.facebook.com
+1-edge-chat.messenger.com
+1.beta.facebook.com
+1.fb.me
+1.messenger.com
+1csrvvr.dns.facebook.com
+1csuma6.dns.facebook.com
+1eb93.live.oculusvr.com
+1j65ya4.dns.facebook.com
+1pp1hvg.dns.facebook.com

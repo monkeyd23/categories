@@ -1,0 +1,40 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Piracy List (NL)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 2134
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Piracy list
+# ------------------------------------[FILTERS]-------------------------------------
+0daycn.net
+100-postal2.blogspot.com
+160kbps.4files.net
+1clickdown.com
+22jumpstreetonlinenow.comunidades.net
+24-download.com
+24-downloads.com
+240x320.ru
+2name.com
+300kg.ru
+3dmgame.com
+3warez.com
+4allprograms.net
+4find.ru
+4players.org
+4realtorrentz.com
+5230n.ru
+5tigorsk.ru
+600sec.ru
+6ffc826b.yyv.co
+77help.ru
+7ur.ru
+83912.ru
+8hacks.com
+8millimeters.com

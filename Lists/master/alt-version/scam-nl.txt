@@ -1,0 +1,40 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Scam List (NL)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 1274
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Scam list
+# ------------------------------------[FILTERS]-------------------------------------
+10tradeoption.com
+123tradeoption.com
+1n.yarrid.com
+1stireland.com
+1sttheglobal.com
+1sttheworld.co
+1sttheworld.com
+1sttheworld.online
+247optionstrade.com
+247tradeoption.com
+24cryptoforex.com
+24cryptofx.com
+24empiresoption.com
+24hourstrade.com
+24livetrade.com
+24opsions.com
+24optionbn.com
+24optionflow.com
+24optiononline.com
+24suretrades.com
+24trade2win.com
+24tradeoption.com
+24traderush.com
+24trades.net
+32koptions.com
